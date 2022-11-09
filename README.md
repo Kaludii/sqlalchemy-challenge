@@ -22,6 +22,8 @@ To perform an analysis of precipitation in the area, the following was done:
 
 * Used Pandas to print the summary statistics for the precipitation data.
 
+![alt text](https://github.com/Kaludii/sqlalchemy-challenge/blob/main/Images/Precipitation%20analysis.png?raw=true)
+
 #### Station Analysis
 
 Performed an analysis of stations in the area:
@@ -43,6 +45,8 @@ Performed an analysis of stations in the area:
     * Queried the previous 12 months of temperature observation data for this station.
 
     * Ploted the results as a histogram with `bins=12`.
+    
+![alt text](https://github.com/Kaludii/sqlalchemy-challenge/blob/main/Images/station-histogram.png?raw=true)    
 
 ### Part 2: Design Your Climate App
 
